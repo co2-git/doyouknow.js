@@ -1,0 +1,6 @@
+/node_modules/*
+/public/bower_components/*
+/data/*
+/dependencies/*
+/*.port
+/lock.pid
